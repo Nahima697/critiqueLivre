@@ -1,0 +1,46 @@
+{
+  "reviews": [
+    {
+      "bookId": 1,
+      "username": "Alice",
+      "rating": 4.5,
+      "comment": "Très bon livre",
+      "date": "2022-05-01"
+    },
+    {
+      "bookId": 1,
+      "username": "Bob",
+      "rating": 5.0,
+      "comment": "Chef-d’œuvre",
+      "date": "2023-03-12"
+    },
+    {
+      "bookId": 2,
+      "username": "Charlie",
+      "rating": 4.0,
+      "comment": "Visionnaire",
+      "date": "2021-11-20"
+    },
+    {
+      "bookId": 3,
+      "username": "Alice",
+      "rating": 5.0,
+      "comment": "Incroyable",
+      "date": "2022-01-10"
+    },
+    {
+      "bookId": 4,
+      "username": "Bob",
+      "rating": 3.5,
+      "comment": "Intéressant",
+      "date": "2020-07-04"
+    },
+    {
+      "bookId": 4,
+      "username": "Alice",
+      "rating": 4.0,
+      "comment": "Classique efficace",
+      "date": "2022-08-15"
+    }
+  ]
+}
