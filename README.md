@@ -86,12 +86,21 @@ public class FakeDatabase {
 
 ```bash
 git clone <url-du-depot>
-cd BookReviewManager```
+cd BookReviewManager
+
+```
 
 2. Compiler avec Maven
+
+
 ```bash
-mvn clean compile```
+mvn clean compile
+```
+
 
 3.Lancer l'application
-``bash
-`mvn exec:java -Dexec.mainClass="app.App"```
+
+```bash
+mvn exec:java -Dexec.mainClass="app.App"
+
+```
