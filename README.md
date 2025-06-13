@@ -89,7 +89,9 @@ git clone <url-du-depot>
 cd BookReviewManager```
 
 2. Compiler avec Maven
-```mvn clean compile```
+```bash
+mvn clean compile```
 
 3.Lancer l'application
-```mvn exec:java -Dexec.mainClass="app.App"
+``bash
+`mvn exec:java -Dexec.mainClass="app.App"```
