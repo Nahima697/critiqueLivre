@@ -78,6 +78,7 @@ public class FakeDatabase {
         );
     }
 }
+```
 
 ## 💻 Installation
 
